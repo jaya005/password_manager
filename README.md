@@ -12,3 +12,15 @@ Local Storage Implementation: Saves passwords securely in the browser's local st
 Responsive Design: Built with Bootstrap for a mobile-friendly experience across different screen sizes.
 
 Suggest Strong Password : It also has a feature which suggests the user strong passwords which are of a minimum length of 10 having atleast 2 lowercase ,2 uppercase characters and 2 digits.
+
+Technologies Used
+HTML: Structure of the web pages.
+CSS : Styling and responsive design.
+JavaScript: Client-side scripting for form handling and local storage logic.
+
+Usage
+Open the application in your browser.
+Use the Add Password form to store new passwords by entering the website name, username, and password.
+View the saved passwords in the Saved Passwords section.
+Use the Delete button next to any saved password to remove it from the list.
+The contact form allows users to reach out with feedback or queries directly from the website.
